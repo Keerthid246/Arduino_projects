@@ -11,3 +11,5 @@ Home automation involves using technology to control and automate various househ
 - HC-05 BT 
 - ARDUINO NANO
 - CONNECTING WIRES
+- Bulb
+- Motor
